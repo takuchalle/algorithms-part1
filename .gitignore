@@ -6,6 +6,8 @@
 build/
 DerivedData/
 
+algorithms-part1.xcodeproj
+
 ## Various settings
 *.pbxuser
 !default.pbxuser
