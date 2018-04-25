@@ -8,6 +8,9 @@ DerivedData/
 
 algorithms-part1.xcodeproj
 
+# for Java
+*.class
+
 ## Various settings
 *.pbxuser
 !default.pbxuser
